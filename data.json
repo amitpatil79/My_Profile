@@ -1,0 +1,44 @@
+{
+    "name": "Amit Patil",
+    "title": "Data Engineer",
+    "bio1": "Informatica (IICS) Certified Data Engineer with more than 1 year of experience also 3x Microsoft Azure Certified.",
+    "bio2": "Possesses a strong background in insights, ETL (Extract, Transform, Load), data manipulation, transformation, and analysis.",
+    "bio3": "Proficient in Python for data manipulation, PySpark for big data processing, and Synapse Analytics for advanced analytics. Skilled in working with Azure, Oracle databases and Snowflake. Proficient in designing and implementing efficient data integration solutions that enable organizations to harness the full potential of their data.",
+    "skills": {
+      "key_areas": ["ETL", "IICS", "Informatica Powercenter", "Azure"],
+      "languages_tools": ["Azure Synapse", "Databrikes","PLSQL", "SQL", "Snowflake", "Python", "Pyspark"],
+      "databases": ["Oracle", "Postgre SQL"]
+    },
+    "experience": [
+      {
+        "title": "Data Engineer at Capgemini",
+        "duration": "November 2022 - Present",
+        "details": [
+          {"title": "Microsoft Azure Training", "date": "1st Jun 2023 - 30th Jun 2023", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."},
+          {"title": "SQL Training", "date": "13th Sep 2023 - 15th Sep 2023)", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."},
+          {"title": "Hackathon Data Quality and Alerting System", "date": "Nov 2023 - Dec 2023", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."},
+          {"title": "Mini Project Amazon Sales Data (Usecases)", "date": "Dec 2022 - Feb 2023", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."}
+        ]
+      },
+      {
+        "title": "Informatica IICS - Internship",
+        "duration": "10th Mar 2022 - 6th Jun 2022",
+        "details": [
+          {"title": "", "date": "", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."}
+        ]
+      }
+    ],
+    "certifications": [
+      {"name": "Azure Associate Data Engineer (DP 203)", "provider": "Microsoft"},
+      {"name": "Azure Data Fundamentals (DP 900)", "provider": "Microsoft"},
+      {"name": "Azure Fundamentals (AZ 900)", "provider": "Microsoft"},
+      {"name": "Ocean certified as Data Engineer - IICS - Grade A - Level 1", "provider": "Ocean Capgemini"},
+      {"name": "Ocean certified as Data Engineer - IICS - Grade A - Level 2", "provider": "Ocean Capgemini"},
+      {"name": "IICS Cloud Data Integration Services R41", "provider": "Informatica University"},
+      {"name": "SQL for Data science", "provider": "Coursera"},
+      {"name": "SQL", "provider": "Hackerrank"},
+      {"name": "Python", "provider": "Hackerrank"},
+      {"name": "Agile Software Development", "provider": "Coursera"}
+    ]
+  }
+  
