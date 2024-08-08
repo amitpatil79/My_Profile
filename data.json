@@ -5,7 +5,7 @@
     "bio2": "Possesses a strong background in insights, ETL (Extract, Transform, Load), data manipulation, transformation, and analysis.",
     "bio3": "Proficient in Python for data manipulation, PySpark for big data processing, and Synapse Analytics for advanced analytics. Skilled in working with Azure, Oracle databases and Snowflake. Proficient in designing and implementing efficient data integration solutions that enable organizations to harness the full potential of their data.",
     "skills": {
-      "key_areas": ["ETL", "IICS", "Informatica Powercenter", "Azure"],
+      "key_areas": ["ETL", "IICS", "Informatica Powercenter", "azure"],
       "languages_tools": ["Azure Synapse", "Databrikes","PLSQL", "SQL", "Snowflake", "Python", "Pyspark"],
       "databases": ["Oracle", "Postgre SQL"]
     },
