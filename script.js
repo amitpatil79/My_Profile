@@ -11,6 +11,7 @@ function renderPortfolio(data) {
         <section class="px-4 py-16">
             <h1 class="text-4xl font-black">${data.name}</h1>
             <p class="text-gray-600 text-xl mb-3">${data.title}</p>
+            <p>Info:</p>
             <p class="text-gray-600 mb-2">${data.bio1}</p>
             <p class="text-gray-600 mb-2">${data.bio2}</p>
             <p class="text-gray-600">${data.bio3}</p>
